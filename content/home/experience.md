@@ -18,27 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Founder"
+  company = "hedQTRS"
+  company_url = "https://www.hedqtrs.com"
+  location = "Toronto, ON"
+  date_start = "2019-01-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Developing safe, secure, and robust AI solutions for mission critical verticals."""
+ 
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
+  title = "Entrepreneur in Residence"
+  company = "Launch Dream"
+  company_url = "https://www.launchdream.com"
+  location = "Washington, D.C."
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2019-12-31"
+  description = """Launch Dream is anaccelerator based in the Virginia suburbs of Washington D.C.. My main responsability was to source and evaluate the viability of technology products and solutions in the federal market"""
+  
 
 +++
