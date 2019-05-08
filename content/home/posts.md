@@ -66,5 +66,5 @@ subtitle = ""
  css_class = ""
 +++
 
-
+"[Technology: The Future of Business](http://www.msbr.ca/technology-the-future-of-business.html)" | October 9, 2015
 
