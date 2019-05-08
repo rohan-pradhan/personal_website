@@ -66,6 +66,5 @@ subtitle = ""
  css_class = ""
 +++
 
-[[post]] title = "[Technology: The Future of Business](http://www.msbr.ca/technology-the-future-of-business.html)" summary = """Perspectives on how technology is fundamentally changing how organizations innovate"" date="2015-10-09"
 
 
