@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a MASc (Doctoral Stream) student at the University of Toronto's Electrical and Computer Engineering Communication's group under the supervision of Professor Deepa Kundur. My current research interests are focused around adversarial examples in machine learning and creating techniques for robust, secure machine learning. Specifically, I am focusing my research around black-box attacks on machine learning models and the transferability of adversarial examples across various model architectures. The goal of my current work is focused around the theoretical bounds of the transferability of adversarial examples in black box scenaraios and creating an upperbound on the divergence between blackbox and whitebox adversarial examples. Additionally, I am exploring the physical transferability of geometric adversarial examples on a macroscopic level for attacks against autonomous vehicles and threat detection systems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Prior to this, I completed my BSc degree in Computer Science at McGill University. While at McGill, I was affiliated with the Center for Intelligent Machine's Mobile Robotics Lab, under the supervision of Professor Gregory Dudek. My research was mainly focused on using photorealistic simulations to augment the training of deep learning computer vision solutions for robust applications in robotics. 
+
+I am also the founder of [hedQTRS](https://www.hedqtrs.com/), a University of Toronto affiliated research startup. hedQTRS is focused on developing robust, secure, and safe AI solutions for mission critical verticals. 
