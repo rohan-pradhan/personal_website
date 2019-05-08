@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -65,3 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+[[post]] title = "[Technology: The Future of Business](http://www.msbr.ca/technology-the-future-of-business.html)" summary = """Perspectives on how technology is fundamentally changing how organizations innovate"" date="2015-10-09"
+
+
