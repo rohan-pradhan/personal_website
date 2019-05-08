@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = "https://www.launchdream.com"
   location = "Washington, D.C."
   date_start = "2016-01-01"
-  date_end = "2019-12-31"
+  date_end = "2018-12-31"
   description = """Launch Dream is anaccelerator based in the Virginia suburbs of Washington D.C.. My main responsability was to source and evaluate the viability of technology products and solutions in the federal market"""
   
 
