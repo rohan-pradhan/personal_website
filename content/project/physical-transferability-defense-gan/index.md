@@ -1,5 +1,5 @@
 +++
-title = "Physical Transferability Defense Gan"
+title = "Testing the Physical Transferability of Defense-GAN"
 date = 2019-05-10T10:20:43-04:00
 draft = false
 
